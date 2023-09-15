@@ -1,4 +1,4 @@
-![hospital](https://github.com/alizay1/target-hospital-analysis/assets/101383537/b5e63bb5-62cd-4241-91dc-274fcbd83c9f)
+<img width="994" alt="Screenshot 2023-09-15 at 5 19 55 PM" src="https://github.com/alizay1/target-hospital-analysis/assets/101383537/f824c476-907d-46c0-ba5c-974e16fbe130">
 
 
 # Target Hospital Analysis
